@@ -11,21 +11,3 @@ body {
     box-sizing: border-box;
   }
   
-
-
-
-
-
-  
-  @media (max-width: 375px) {
-    .card{
-      margin-top: 156px;
-      width: 85%;
-    }
-  }
-  
-  @media (max-width: 1440px) {
-    .blogCard {
-      width: 100%;
-    }
-  }
