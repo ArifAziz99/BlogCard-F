@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    min-height: 100vh;
+  
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+  
+
+
+
+
+
+  
+  @media (max-width: 375px) {
+    .card{
+      margin-top: 156px;
+      width: 85%;
+    }
+  }
+  
+  @media (max-width: 1440px) {
+    .blogCard {
+      width: 100%;
+    }
+  }
